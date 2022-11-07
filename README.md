@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p4v32
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning python
-- I’m working on cryptography algorithm
+- I’m working on cryptography libry
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
