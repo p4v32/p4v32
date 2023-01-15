@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p4v32
-- 👀 I’m interested in about it
+- 👀 I’m interested in it, codeing
 - 🌱 I’m currently learning python
 - I’m working on cryptography libry
 <!---
